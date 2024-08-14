@@ -68,47 +68,207 @@ appConfig:
       background: '#0b1021'
       background-darker: '#05070e'
 sections:
-  - name: Getting Started
+  - name: Useful Tools
     icon: fas fa-rocket
     items:
       - &ref_0
-        title: Dashy Live
-        description: Development a project management links for Dashy
-        icon: https://i.ibb.co/qWWpD0v/astro-dab-128.png
-        url: https://live.dashy.to/
-        target: newtab
-        id: 0_1481_dashylive
+        title: AnyBT
+        icon: >-
+          https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShv0hRlw6sVr87voiZgTW1V3zErLRcdt-_FjTzw4IKy0bNrLA&s
+        url: https://anybt.eth.limo/
+        target: null
+        id: 0_1189_anybt
       - &ref_1
-        title: GitHub
-        description: Source Code, Issues and Pull Requests
-        url: https://github.com/lissy93/dashy
+        title: archive.is
         icon: favicon
-        id: 1_1481_github
+        url: https://archive.is/
+        id: 1_1189_archiveis
       - &ref_2
-        title: Docs
-        description: Configuring & Usage Documentation
-        provider: Dashy.to
-        icon: far fa-book
-        url: https://dashy.to/docs
-        id: 2_1481_docs
+        title: BGP.Tools
+        icon: favicon
+        url: https://bgp.tools/
+        id: 2_1189_bgptools
       - &ref_3
-        title: Showcase
-        description: See how others are using Dashy
-        url: https://github.com/Lissy93/dashy/blob/master/docs/showcase.md
-        icon: far fa-grin-hearts
-        id: 3_1481_showcase
+        title: Censys Search
+        icon: favicon
+        url: https://search.censys.io/
+        id: 3_1189_censyssearch
       - &ref_4
-        title: Config Guide
-        description: See full list of configuration options
-        url: https://github.com/Lissy93/dashy/blob/master/docs/configuring.md
-        icon: fas fa-wrench
-        id: 4_1481_configguide
+        title: Cover Your Tracks
+        icon: favicon
+        url: https://coveryourtracks.eff.org/
+        id: 4_1189_coveryourtracks
       - &ref_5
-        title: Support
-        description: Get help with Dashy, raise a bug, or get in contact
-        url: https://github.com/Lissy93/dashy/blob/master/.github/SUPPORT.md
-        icon: far fa-hands-helping
-        id: 5_1481_support
+        title: CyberChef
+        icon: favicon
+        url: https://cyberchef.io/
+        id: 5_1189_cyberchef
+      - &ref_6
+        title: DNS Checker
+        icon: favicon
+        url: https://dnschecker.org/
+        id: 6_1189_dnschecker
+      - &ref_7
+        title: Home | endoflife.date
+        icon: https://endoflife.date/assets/favicon.svg
+        url: https://endoflife.date/
+        id: 7_1189_homeendoflifedate
+      - &ref_8
+        title: Excalidraw
+        icon: favicon
+        url: https://excalidraw.com/
+        id: 8_1189_excalidraw
+      - &ref_9
+        title: Free Code Tools
+        icon: favicon
+        url: https://freecodetools.org/
+        id: 9_1189_freecodetools
+      - &ref_10
+        title: Gofile
+        icon: https://gofile.io/dist/img/favicon96.png
+        url: https://gofile.io/
+        id: 10_1189_gofile
+      - &ref_11
+        title: Image Tool
+        icon: favicon
+        url: https://imagestool.com/
+        id: 11_1189_imagetool
+      - &ref_12
+        title: IPCheck.ing
+        icon: favicon
+        url: https://ipcheck.ing/
+        id: 12_1189_ipchecking
+      - &ref_13
+        title: Kody Tools
+        icon: favicon
+        url: https://www.kodytools.com/
+        id: 13_1189_kodytools
+      - &ref_14
+        title: Listen Notes
+        description: The best podcast search engine
+        icon: favicon
+        url: https://www.listennotes.com/
+        id: 14_1189_listennotes
+      - &ref_15
+        title: Markdown Tools
+        description: >-
+          A suite a helpful free tools for working with Markdown. MarkdownTools
+          is open source
+        icon: favicon
+        url: https://www.markdowntools.com/
+        id: 15_1189_markdowntools
+      - &ref_16
+        title: Text Editor & Converter
+        icon: favicon
+        url: https://texteditor.com/
+        id: 16_1189_texteditorconverter
+      - &ref_17
+        title: Openverse
+        description: Openly Licensed Images, Audio and More
+        icon: favicon
+        url: https://openverse.org/
+        id: 17_1189_openverse
+      - &ref_18
+        title: PageSpeed Insights
+        icon: favicon
+        url: https://pagespeed.web.dev/
+        id: 18_1189_pagespeedinsights
+      - &ref_19
+        title: Pixabay
+        description: 4.9 million+ Stunning Free Images to Use Anywhere
+        icon: favicon
+        url: https://pixabay.com/
+        id: 19_1189_pixabay
+      - &ref_20
+        title: ping.pe
+        description: Ping, mtr, dig & TCP port check
+        icon: 🇵​
+        url: https://ping.pe/
+        id: 20_1189_pingpe
+      - &ref_21
+        title: river
+        description: ' River is a visual connection engine.Clear your mind and surf laterally though image space.'
+        icon: https://river.maxbittker.com/spiral3.png
+        url: https://river.maxbittker.com/
+        id: 21_1189_river
+      - &ref_22
+        title: Repology
+        description: >-
+          Repology monitors a huge number of package repositories and other
+          sources comparing packages versions across them and gathering other
+          information.
+        icon: https://repology.org/static/repology.v1.ico
+        url: https://repology.org/
+        id: 22_1189_repology
+      - &ref_23
+        title: regex101
+        description: build, test, and debug regex
+        icon: favicon
+        url: https://regex101.com/
+        id: 23_1189_regex
+      - &ref_24
+        title: SSL Server Test
+        icon: https://www.ssllabs.com/favicon.ico
+        url: https://www.ssllabs.com/ssltest/
+        id: 24_1189_sslservertest
+      - &ref_25
+        title: Sourcegraph
+        description: >-
+          Sourcegraph allows developers to rapidly search, write, and understand
+          code by bringing insights from their entire codebase right into the
+          editor
+        icon: favicon
+        url: https://sourcegraph.com/search
+        id: 25_1189_sourcegraph
+      - &ref_26
+        title: Speed Test | Cloudflare
+        icon: favicon
+        url: https://speed.cloudflare.com/
+        id: 26_1189_speedtestcloudflare
+      - &ref_27
+        title: Speed Test | Fast
+        icon: favicon
+        url: https://fast.com/
+        id: 27_1189_speedtestfast
+      - &ref_28
+        title: tldraw
+        icon: favicon
+        url: https://www.tldraw.com/
+        id: 28_1189_tldraw
+      - &ref_29
+        title: unDraw
+        description: Open source illustrations for any idea
+        icon: favicon
+        url: https://undraw.co/
+        id: 29_1189_undraw
+      - &ref_30
+        title: Waifu2X!
+        description: Waifu2x image resizer
+        icon: favicon
+        url: https://waifu2x.booru.pics/
+        id: 30_1189_waifux
+      - &ref_31
+        title: Web Check
+        icon: favicon
+        url: https://web-check.xyz/
+        id: 31_1189_webcheck
+      - &ref_32
+        title: We OCR
+        icon: favicon
+        url: https://ocr.plantree.me/ocr
+        id: 32_1189_weocr
+      - &ref_33
+        title: WHO.CX
+        description: ''
+        icon: favicon
+        url: https://who.cx/
+        id: 33_1189_whocx
+    displayData:
+      sortBy: default
+      rows: 1
+      cols: 1
+      collapsed: false
+      hideForGuests: false
     filteredItems:
       - *ref_0
       - *ref_1
@@ -116,15 +276,34 @@ sections:
       - *ref_3
       - *ref_4
       - *ref_5
-  - name: Test
-    displayData:
-      sortBy: default
-      rows: 1
-      cols: 1
-      collapsed: false
-      hideForGuests: false
-    items: []
-    filteredItems: []
+      - *ref_6
+      - *ref_7
+      - *ref_8
+      - *ref_9
+      - *ref_10
+      - *ref_11
+      - *ref_12
+      - *ref_13
+      - *ref_14
+      - *ref_15
+      - *ref_16
+      - *ref_17
+      - *ref_18
+      - *ref_19
+      - *ref_20
+      - *ref_21
+      - *ref_22
+      - *ref_23
+      - *ref_24
+      - *ref_25
+      - *ref_26
+      - *ref_27
+      - *ref_28
+      - *ref_29
+      - *ref_30
+      - *ref_31
+      - *ref_32
+      - *ref_33
 pages:
   - name: ''
     path: ''
