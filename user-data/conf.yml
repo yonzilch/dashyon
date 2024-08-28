@@ -109,7 +109,7 @@ sections:
         url: https://dnschecker.org/
         id: 6_1189_dnschecker
       - &ref_7
-        title: Home | endoflife.date
+        title: endoflife.date
         icon: https://endoflife.date/assets/favicon.svg
         url: https://endoflife.date/
         id: 7_1189_homeendoflifedate
