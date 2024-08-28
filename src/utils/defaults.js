@@ -221,7 +221,7 @@ module.exports = {
   },
   /* API endpoints for widgets that need to fetch external data */
   widgetApiEndpoints: {
-    anonAddy: 'https://app.anonaddy.com',
+    anonAddy: 'https://app.addy.io',
     astronomyPictureOfTheDay: 'https://apod.as93.net/apod',
     blacklistCheck: 'https://api.blacklistchecker.com/check',
     codeStats: 'https://codestats.net/',
@@ -320,6 +320,7 @@ module.exports = {
     iconPaths: {
       favicon64: './web-icons/favicon-64x64.png',
       favicon32: './web-icons/favicon-32x32.png',
+      favicon16: './web-icons/favicon-16x16.png',
       maskIcon: './web-icons/dashy-logo.png',
       msTileImage: './web-icons/dashy-logo.png',
     },
