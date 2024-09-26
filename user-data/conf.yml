@@ -12,7 +12,7 @@ pageInfo:
   footerText: Powered by Dashy
 appConfig:
   theme: basic
-  layout: horizontal
+  layout: vertical
   iconSize: medium
   startingView: default
   defaultOpeningMethod: newtab
