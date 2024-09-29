@@ -104,15 +104,15 @@ sections:
         url: https://cyberchef.io/
         id: 5_1189_cyberchef
       - &ref_6
-        title: DNS Checker
+        title: DNS.fish
         icon: favicon
-        url: https://dnschecker.org/
-        id: 6_1189_dnschecker
+        url: https://dns.fish/
+        id: 6_1189_dnsfish
       - &ref_7
         title: endoflife.date
         icon: https://endoflife.date/assets/favicon.svg
         url: https://endoflife.date/
-        id: 7_1189_homeendoflifedate
+        id: 7_1189_endoflifedate
       - &ref_8
         title: Excalidraw
         icon: favicon
@@ -263,6 +263,11 @@ sections:
         icon: favicon
         url: https://who.cx/
         id: 33_1189_whocx
+      - &ref_34
+        title: Wappalyzer
+        icon: favicon
+        url: https://www.wappalyzer.com/lookup/
+        id: 34_1189_wappalyzer
     displayData:
       sortBy: default
       rows: 1
@@ -304,6 +309,7 @@ sections:
       - *ref_31
       - *ref_32
       - *ref_33
+      - *ref_34
 pages:
   - name: ''
     path: ''
