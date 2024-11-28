@@ -612,6 +612,13 @@ Huge thanks to the sponsors helping to support Dashy's development!
     </td></tr>
 <tr>
     <td align="center">
+        <a href="https://github.com/undefined">
+            <img src="" width="80;" alt="undefined"/>
+            <br />
+            <sub><b>Undefined</b></sub>
+        </a>
+    </td>
+    <td align="center">
         <a href="https://github.com/mryesiller">
             <img src="https://avatars.githubusercontent.com/u/24632172?u=0d20f2d615158f87cd60a3398d3efb026c32f291&v=4" width="80;" alt="mryesiller"/>
             <br />
@@ -626,20 +633,6 @@ Huge thanks to the sponsors helping to support Dashy's development!
         </a>
     </td>
     <td align="center">
-        <a href="https://github.com/Sacquer">
-            <img src="https://avatars.githubusercontent.com/u/29262439?u=c925b80a37404bc8cf652ac9ce8e6639fd97e2f4&v=4" width="80;" alt="Sacquer"/>
-            <br />
-            <sub><b>Gökhan Alkacir</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/undefined">
-            <img src="" width="80;" alt="undefined"/>
-            <br />
-            <sub><b>Undefined</b></sub>
-        </a>
-    </td>
-    <td align="center">
         <a href="https://github.com/semiceau">
             <img src="https://avatars.githubusercontent.com/u/50425951?u=f8c386b966312769f559422adf0dbc7e2f116258&v=4" width="80;" alt="semiceau"/>
             <br />
@@ -651,6 +644,13 @@ Huge thanks to the sponsors helping to support Dashy's development!
             <img src="https://avatars.githubusercontent.com/u/53431819?u=604977bed6ad6875ada890d0d3765a4cacc2fa14&v=4" width="80;" alt="Bastii717"/>
             <br />
             <sub><b>Bastii717</b></sub>
+        </a>
+    </td>
+    <td align="center">
+        <a href="https://github.com/OlliVHH">
+            <img src="https://avatars.githubusercontent.com/u/84959562?v=4" width="80;" alt="OlliVHH"/>
+            <br />
+            <sub><b>HamburgerJung</b></sub>
         </a>
     </td></tr>
 <tr>
