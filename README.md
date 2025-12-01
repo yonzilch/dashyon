@@ -8,6 +8,16 @@
   <b><a href="./docs/showcase.md">User Showcase</a></b> | <b><a href="https://demo.dashy.to">Live Demo</a></b> | <b><a href="./docs/quick-start.md">Getting Started</a></b> | <b><a href="https://dashy.to/docs">Documentation</a></b> | <b><a href="https://github.com/Lissy93/dashy">GitHub</a></b>
 </p>
 
+---
+
+<p align="center">
+<sup>Dashy is kindly sponsored by <a href="https://www.lambdatest.com/?utm_source=dashy&utm_medium=sponsor">LambdaTest</a> - Browser Testing</sup><br>
+  <a href="https://www.lambdatest.com/?utm_source=dashy&utm_medium=sponsor" target="_blank">
+    <img src="https://www.lambdatest.com/blue-logo.png" width="400" alt="LambdaTest" />
+  </a>
+</p>
+
+
 <p align="center">
 <br>
 <sup>Dashy is kindly sponsored by <a href="https://umbrel.com?ref=dashy">Umbrel</a> - the personal home cloud and OS for self-hosting</sup><br>
@@ -15,6 +25,7 @@
 <img width="400" src="https://github.com/Lissy93/dashy/blob/WEBSITE/docs-site-source/static/umbrel-banner.jpg?raw=true" />
 </a>
 </p>
+
 
 > [!NOTE]
 > Version [3.0.0](https://github.com/Lissy93/dashy/releases/tag/3.0.0) has been released, and requires some changes to your setup, see [#1529](https://github.com/Lissy93/dashy/discussions/1529) for details.
@@ -26,7 +37,7 @@
   
 - **Getting Started**
   - [🌈 Features](#features-)
-  - [⚡Demo](#demo-)
+  - [⚡ Demo](#demo-)
   - [🚀 Getting Started](#getting-started-)
   - [🔧 Configuring](#configuring-)
 - **Feature Overview**
@@ -198,7 +209,7 @@ Both sections and items can have an icon associated with them, defined under the
 
 The following icon types are supported:
 - **Favicon** - Automatically fetch an apps icon from its Favicon or logo image
-- **Icon Packs** - Use any icon from [font-awesome], [simple-icons] or [material icons]
+- **Icon Packs** - Use any icon from [font-awesome], [simple-icons], [selfh.st/icons], or [material icons]
 - **Emoji** - Any valid emoji can be used as an icon
 - **Generative** - Unique, auto-generated images for easily identifying services
 - **URL** - Pass the URL of any valid image in to have it fetched and rendered
@@ -209,6 +220,7 @@ The following icon types are supported:
 [font-awesome]: https://fontawesome.com/icons
 [simple-icons]: https://simpleicons.org/
 [material icons]: https://github.com/Templarian/MaterialDesign
+[selfh.st/icons]: https://selfh.st/icons
 [dashboard-icons]: https://github.com/WalkxCode/dashboard-icons
 
 
@@ -410,6 +422,7 @@ Dashy supports multiple languages and locales. When available, your language sho
 - 🇩🇪 **German**: `de` - Contributed by **[@Niklashere](https://github.com/Niklashere)**
 - 🇬🇷 **Greek**: `el` - Contributed by **[@aviolaris](https://github.com/aviolaris)**
 - 🇮🇳 **Hindi**: `hi` - _Auto-generated_
+- 🇭🇺 **Hungarian**: `hu` - Contributed by **[@apgyorfi](https://github.com/apgyorfi)**
 - 🇮🇹 **Italian**: `it` - Contributed by **[@alexdelprete](https://github.com/alexdelprete)**
 - 🇯🇵 **Japanese**: `ja` - _Auto-generated_
 - 🇰🇷 **Korean**: `ko` - Contributed by **[@boggy-cs](https://github.com/boggy-cs)**
@@ -417,13 +430,14 @@ Dashy supports multiple languages and locales. When available, your language sho
 - 🇵🇱 **Polish**: `pl` - Contributed by **[@skaarj1989](https://github.com/skaarj1989)**
 - 🇵🇹 **Portuguese**: `pt` - Contributed by **[@LeoColman](https://github.com/LeoColman)**
 - 🛰️ **Galician**: `gl` - Contributed by **[@pvillaverde](https://github.com/pvillaverde)**
-- 🇷🇺 **Russian**: `ru` - _Auto-generated_
+- 🇷🇺 **Russian**: `ru` -Contributed by **[@sasetz](https://github.com/sasetz)**
 - 🇸🇰 **Slovak**: `sk` - Contributed by **[@Smexhy](https://github.com/Smexhy)**
 - 🇸🇮 **Slovenian**: `sl` - Contributed by **[@UrekD](https://github.com/UrekD)**
 - 🇪🇸 **Spanish**: `es` - Contributed by **[@lu4t](https://github.com/lu4t)**
 - 🇸🇪 **Swedish**: `sv` - Contributed by **[@BOZG](https://github.com/BOZG)**
 - 🇹🇼 **Traditional Chinese**: `zh-TW` - Contributed by **[@stanly0726](https://github.com/stanly0726)**
 - 🇹🇷 **Turkish**: `tr` - Contributed by **[@imsakg](https://github.com/imsakg)**
+- 🇺🇦 **Ukrainian**: `uk` - Contributed by **[@allozavrr](https://github.com/allozavrr)**
 - 🏴‍☠️ **Pirate**: `pirate` - Contributed by **[@Lissy93](https://github.com/lissy93)**
 
 #### Add your Language
@@ -522,142 +536,11 @@ Thank you so much to everyone who has helped with Dashy so far; every contributi
 #### Sponsors
 
 Huge thanks to the sponsors helping to support Dashy's development!
-<!-- readme: sponsors -start -->
-<table>
-<tr>
-    <td align="center">
-        <a href="https://github.com/vincentkoc">
-            <img src="https://avatars.githubusercontent.com/u/25068?u=fbd5b2d51142daa4bdbc21e21953a3b8b8188a4a&v=4" width="80;" alt="vincentkoc"/>
-            <br />
-            <sub><b>Vincent Koc</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/BrianCurliss">
-            <img src="https://avatars.githubusercontent.com/u/1222949?v=4" width="80;" alt="BrianCurliss"/>
-            <br />
-            <sub><b>Brian Curliss</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/AnandChowdhary">
-            <img src="https://avatars.githubusercontent.com/u/2841780?u=747e554b3a7f12eb20b7910e1c87d817844f714f&v=4" width="80;" alt="AnandChowdhary"/>
-            <br />
-            <sub><b>Anand Chowdhary</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/bile0026">
-            <img src="https://avatars.githubusercontent.com/u/5022496?u=aec96ad173c0ea9baaba93807efa8a848af6595c&v=4" width="80;" alt="bile0026"/>
-            <br />
-            <sub><b>Zach Biles</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/UlisesGascon">
-            <img src="https://avatars.githubusercontent.com/u/5110813?u=3c41facd8aa26154b9451de237c34b0f78d672a5&v=4" width="80;" alt="UlisesGascon"/>
-            <br />
-            <sub><b>Ulises Gascón</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/digitalarche">
-            <img src="https://avatars.githubusercontent.com/u/6546135?u=564756d7f44ab2206819eb3148f6d822673f5066&v=4" width="80;" alt="digitalarche"/>
-            <br />
-            <sub><b>Digital Archeology</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/InDieTasten">
-            <img src="https://avatars.githubusercontent.com/u/7047377?u=8d8f8017628b38bc46dcbf3620e194b01d3fb2d1&v=4" width="80;" alt="InDieTasten"/>
-            <br />
-            <sub><b>InDieTasten</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/araguaci">
-            <img src="https://avatars.githubusercontent.com/u/7318668?v=4" width="80;" alt="araguaci"/>
-            <br />
-            <sub><b>Araguaci</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/bmcgonag">
-            <img src="https://avatars.githubusercontent.com/u/7346620?u=2a0f9284f3e12ac1cc15288c254d1ec68a5081e8&v=4" width="80;" alt="bmcgonag"/>
-            <br />
-            <sub><b>Brian McGonagill</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/vlad-tim">
-            <img src="https://avatars.githubusercontent.com/u/11474041?u=eee43705b54d2ec9f51fc4fcce5ad18dd17c87e4&v=4" width="80;" alt="vlad-tim"/>
-            <br />
-            <sub><b>Vlad</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/helixzz">
-            <img src="https://avatars.githubusercontent.com/u/12218889?u=d06d0c103dfbdb99450623064f7da3c5a3675fb6&v=4" width="80;" alt="helixzz"/>
-            <br />
-            <sub><b>HeliXZz</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/mryesiller">
-            <img src="https://avatars.githubusercontent.com/u/24632172?u=0d20f2d615158f87cd60a3398d3efb026c32f291&v=4" width="80;" alt="mryesiller"/>
-            <br />
-            <sub><b>Göksel Yeşiller</b></sub>
-        </a>
-    </td></tr>
-<tr>
-    <td align="center">
-        <a href="https://github.com/sushibait">
-            <img src="https://avatars.githubusercontent.com/u/26634535?v=4" width="80;" alt="sushibait"/>
-            <br />
-            <sub><b>Shiverme Timbers</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/undefined">
-            <img src="" width="80;" alt="undefined"/>
-            <br />
-            <sub><b>Undefined</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/OlliVHH">
-            <img src="https://avatars.githubusercontent.com/u/84959562?v=4" width="80;" alt="OlliVHH"/>
-            <br />
-            <sub><b>HamburgerJung</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/frankdez93">
-            <img src="https://avatars.githubusercontent.com/u/87549420?v=4" width="80;" alt="frankdez93"/>
-            <br />
-            <sub><b>Frankdez93</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/st617">
-            <img src="https://avatars.githubusercontent.com/u/128325650?v=4" width="80;" alt="st617"/>
-            <br />
-            <sub><b>St617</b></sub>
-        </a>
-    </td>
-    <td align="center">
-        <a href="https://github.com/hudsonrock-partnerships">
-            <img src="https://avatars.githubusercontent.com/u/163282900?u=5f2667f7fe5d284ac7a2da6b0800ea8970b0fcbf&v=4" width="80;" alt="hudsonrock-partnerships"/>
-            <br />
-            <sub><b>Hudsonrock-partnerships</b></sub>
-        </a>
-    </td></tr>
-</table>
-<!-- readme: sponsors -end -->
+
+![sponsors badge](https://readme-contribs.as93.net/sponsors/lissy93)
 
 #### Contributors
-[![Auto-generated contributors](https://raw.githubusercontent.com/Lissy93/dashy/master/docs/assets/CONTRIBUTORS.svg)](./docs/credits.md)
+[![contributors badge](https://readme-contribs.as93.net/contributors/lissy93/dashy?perRow=12&limit=96)](./docs/credits.md)
 
 #### Stats
 [![Stats](https://repobeats.axiom.co/api/embed/48546e3c768d38c450ba136e32c0992bcf58ad73.svg "Repobeats analytics image")](https://github.com/Lissy93/dashy/blob/master/docs/credits.md)
